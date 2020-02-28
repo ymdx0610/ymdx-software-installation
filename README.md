@@ -1,1 +1,1 @@
-### 义码当仙之软件安装
+## [义码当仙之软件安装](https://github.com/ymdx0610/ymdx-software-installation/wiki)
